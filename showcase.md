@@ -12,7 +12,7 @@ where the SciML tools have been employed. If you would like your
 own work added to this list,
 [please open a pull request](https://github.com/SciML/sciml.ai).
 
-# External Applications Libraries and Large Projects using SciML
+# External Applications, Libraries, and Large Projects using SciML
 
 There are many external libraries which connect and utilize SciML
 utilities under the hood. The following an incomplete list of software
@@ -36,6 +36,8 @@ SciML. If you would like your institution's tools added to the list,
 - [Safe Blues: A Method for Estimation and Control in the Fight Against COVID-19](https://safeblues.org/)
 - [InSysBio: Heta Project QSP Simulation](https://hetalang.github.io/#/)
 - [Trixi.jl: Adaptive high-order numerical simulations of hyperbolic PDEs in Julia](https://github.com/trixi-framework/Trixi.jl)
+- [DynamicalSystems.jl: General purpose library for nonlinear dynamics and nonlinear timeseries analysis](https://juliadynamics.github.io/DynamicalSystems.jl/dev/)
+- [Agents.jl: A performant and feature-full agent based modelling software of minimal code complexity](https://juliadynamics.github.io/Agents.jl/stable/examples/diffeq/)
 
 ## Press Coverage Featuring SciML
 
